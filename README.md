@@ -2,7 +2,7 @@
 
 
 
-Una app escrita en python
+Una app escrita en python3
 
 ## Installation
 
